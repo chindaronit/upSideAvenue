@@ -9,4 +9,4 @@ Upside Avenue does an incredible job of connecting buyers and sellers through ag
 ## Preview
 
 ### Main 
-![Main](./Preview/5.jpg)
+![Main](./Preview/5.png)
