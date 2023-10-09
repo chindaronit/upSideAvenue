@@ -9,4 +9,20 @@ Upside Avenue does an incredible job of connecting buyers and sellers through ag
 ## Preview
 
 ### Main 
-![Main](./Preview/5.png)
+![Main](./Preview/1.png)
+
+
+### Services 
+![Services](./Preview/4.png)
+
+### Signup
+![Signup](./Preview/signup.png)
+
+### Properties
+![properties](./Preview/allProperty.png)
+
+### addProperty
+![properties](./Preview/addProperty.png)
+
+### MyPost
+![post](./Preview/myPost.png)
